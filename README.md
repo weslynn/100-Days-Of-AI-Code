@@ -22,7 +22,7 @@ CC-BY-NC-SA 知识共享-署名-非商业性-相同方式共享
 ## 按照什么顺序来刷
 本计划持续时间约4个月。
 
-[!basic](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/ObjectClassification.png)
+![basic](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/ObjectClassification.png)
 
 ### 第一个月 深度学习基础 
 - [Object Classification 物体分类] 
@@ -55,7 +55,7 @@ CC-BY-NC-SA 知识共享-署名-非商业性-相同方式共享
   - [PolyNet]
   - [NasNet]
   
-[!basic1](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/ObjectDetection%26Seg.png)
+![basic1](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/ObjectDetection%26Seg.png)
 
 ### 第二个月 物体检测和分割
 
@@ -90,7 +90,7 @@ CC-BY-NC-SA 知识共享-署名-非商业性-相同方式共享
 
 
 ### 第三个月 与人相关的部分
-[!face](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/Face.png)
+![face](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/Face.png)
 - [Face Detection & Recognition 人脸检测与识别]
 - F 1周 人脸与特征点检测
   - [MTCNN](#mtcnn-详解-detail-zhang-kaipeng-乔宇-qiao-yu--cuhk-mmlab--siat)
@@ -109,7 +109,7 @@ CC-BY-NC-SA 知识共享-署名-非商业性-相同方式共享
   - [CRNN](#crnn-详解-detail-白翔-xiang-baimedia-and-communication-lab-hust)
 
 
-[!GAN](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/Art%26Ganpic.png)
+![GAN](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/Art%26Ganpic.png)
 
 #### 第四个月 GAN 生成对抗网络
 - [GAN 生成式对抗网络](#gan-生成式对抗网络)
@@ -128,7 +128,7 @@ CC-BY-NC-SA 知识共享-署名-非商业性-相同方式共享
 
 J 3-4周 GAN应用
 
-[!basic2](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/mapclean_1.5.png)
+![basic2](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/mapclean_1.5.png)
 
 ## 碎碎念
 本来，只是打算个人继续抽空将AlphaTree 整理一下，然后但是有小伙伴加入了这个计划。
