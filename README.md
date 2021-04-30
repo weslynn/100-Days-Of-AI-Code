@@ -6,7 +6,6 @@
 
 如果喜欢，就star一个吧。
 
-## 为什么要做这样的一个AI100天计划
 
 ## 为什么要做这样的一个AI100天计划
 
@@ -34,7 +33,6 @@ CC-BY-NC-SA 知识共享-署名-非商业性-相同方式共享
 ## 按照什么顺序来刷
 本计划持续时间约4个月。
 
-![basic](https://github.com/weslynn/100-Days-Of-AI-Code/blob/master/map/ObjectClassification.png)
 
 本计划分八个板块。以基础为主。想要对深度学习有个整个了解的，可以按顺序全刷　
 
